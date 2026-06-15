@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLinesStyle": "default",
+  "editor.cursorWidth": 0,
+  "window.autoDetectColorScheme": false,
+  "editor.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+  "editor.codeLensFontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif"
+}
